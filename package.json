@@ -1,0 +1,26 @@
+{
+  "name": "ap-cummulative-import",
+  "version": "1.0.0",
+  "description": "Reduce number of API calls for repetitive data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apescaru/ap-cummulative-import.git"
+  },
+  "keywords": [
+    "node",
+    "import",
+    "data",
+    "accumulate"
+  ],
+  "author": "Andrei Alexandru Pescaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apescaru/ap-cummulative-import/issues"
+  },
+  "homepage": "https://github.com/apescaru/ap-cummulative-import#readme"
+}
